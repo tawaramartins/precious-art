@@ -1,4 +1,3 @@
-<img src="">
 <h1 align="center">Precious Art</h1>
 
 <h1 align="center">
@@ -18,7 +17,7 @@
 
 ## Objetivo
 
-O objetivo é aprender e usar as propriedades do Flexbox em um projeto real. Layout inspirado no curso <a href="https://www.origamid.com/curso/css-flexbox/"> CSS Flexbox</a> da <a href="https://www.origamid.com/">Origmid</a>
+O objetivo é aprender e usar as propriedades do Flexbox em um projeto real. Layout inspirado no curso <a href="https://www.origamid.com/curso/css-flexbox/"> CSS Flexbox</a> da <a href="https://www.origamid.com/">Origmid.</a>
 
 ### 🛠 Tecnologias
 
@@ -36,5 +35,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Licença 
 Este projeto está sob a licença do MIT. Consulte a [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) para obter mais informações.
+
 ### Autor 
-Projeto criado por <a href="https://github.com/tawaramartins">Tawara</a>
+Projeto criado por <a href="https://github.com/tawaramartins">Tawara Martins.</a>
