@@ -32,9 +32,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Seção Qualidade
 - [x] Responsivo
 
-## Solução:
+## Solução: 
 
-Link da solução: 
+Link da solução: [Precious Art](https://tawaramartins.github.io/precious-art/)
 
 ## 📝 Licença 
 Este projeto está sob a licença do MIT. Consulte a [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) para obter mais informações.
