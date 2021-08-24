@@ -1,7 +1,6 @@
 <h1 align="center">Precious Art</h1>
 
 <h1 align="center">
-    <img alt="PreciousArt" title="#PreciousArt" src="img/precious-art.png" />
   </h1>
 
 <p align="center">
@@ -25,6 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## ✔️ Features
 
