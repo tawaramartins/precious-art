@@ -15,26 +15,26 @@
 	🚧  Em construção...  🚧
 </h4>
 
-## Objetivo
+## 📌 Objetivo
 
-O objetivo é aprender e usar as propriedades do Flexbox em um projeto real. Layout inspirado no curso <a href="https://www.origamid.com/curso/css-flexbox/"> CSS Flexbox</a> da <a href="https://www.origamid.com/">Origmid.</a>
+O objetivo é aprender e usar as propriedades do Flexbox em um projeto real. Layout inspirado no curso <a href="https://www.origamid.com/curso/css-flexbox/"> CSS Flexbox</a> da <a href="https://www.origamid.com/">Origmid</a>.
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-### Features
+## ✔️ Features
 
 - [x] Seção Sobre
 - [ ] Seção Produtos
 - [ ] Seção Preços
 - [ ] Seção Qualidade
 
-### Licença 
+## 📝 Licença 
 Este projeto está sob a licença do MIT. Consulte a [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) para obter mais informações.
 
-### Autor 
-Projeto criado por <a href="https://github.com/tawaramartins">Tawara Martins.</a>
+## 🦸‍♀️ Autor 
+Projeto criado por <a href="https://github.com/tawaramartins">Tawara Martins</a>.
